@@ -20,7 +20,7 @@
 4. Skip connection이란 무엇인가요? https://chatgpt.com/s/t_6acc38f8b6d0819191ec3e8ad071d034
 5. Skip connection은 입력 x를 어떤 방식으로 다음 블록에 전달하나요? https://chatgpt.com/s/t_6acc3956c59c8191b9757965d0ef6614
 6. ResNet의 기본 아이디어를 수식으로 표현하면 어떻게 되나요? https://chatgpt.com/s/t_6acc399f13ac81918925adca2791214a
-7. 일반적인 CNN 블록이 H(x)를 직접 학습하는 것과 ResNet이 F(x) = H(x) - x를 학습하는 것의 차이는 무엇인가요?
+7. 일반적인 CNN 블록이 H(x)를 직접 학습하는 것과 ResNet이 F(x) = H(x) - x를 학습하는 것의 차이는 무엇인가요? https://chatgpt.com/s/t_6acc39fbd3848191a3e907d62d1d6c14
 8. Residual learning이 학습을 쉽게 만드는 이유는 무엇인가요?
 9. Skip connection이 gradient flow에 주는 장점은 무엇인가요?
 10. ResNet은 깊은 네트워크에서 어떤 문제를 해결하기 위해 제안되었나요?
