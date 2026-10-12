@@ -29,7 +29,7 @@
 
 1. Inception 모듈은 무엇인가요? https://chatgpt.com/s/t_6acc48eb6f9c819186ed69c019cde06a
 2. Inception 모듈에서 여러 크기의 convolution filter를 병렬로 사용하는 이유는 무엇인가요? https://chatgpt.com/s/t_6acc494e00948191a19eb56e853ee2ca
-3. 1x1, 3x3, 5x5 convolution을 동시에 사용하는 장점은 무엇인가요?
+3. 1x1, 3x3, 5x5 convolution을 동시에 사용하는 장점은 무엇인가요? https://chatgpt.com/s/t_6acc49dc1c408191aea919d502934dda
 4. 이미지나 feature map에서 다양한 scale의 정보를 추출해야 하는 이유는 무엇인가요?
 5. Inception 모듈에서 1x1 convolution은 어떤 역할을 하나요?
 6. 1x1 convolution이 연산량을 줄이는 원리는 무엇인가요?
