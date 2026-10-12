@@ -19,7 +19,7 @@
 3. Vanishing gradient 문제란 무엇인가요? https://chatgpt.com/s/t_6acc3854a2f081919510abddcdd49758
 4. Skip connection이란 무엇인가요? https://chatgpt.com/s/t_6acc38f8b6d0819191ec3e8ad071d034
 5. Skip connection은 입력 x를 어떤 방식으로 다음 블록에 전달하나요? https://chatgpt.com/s/t_6acc3956c59c8191b9757965d0ef6614
-6. ResNet의 기본 아이디어를 수식으로 표현하면 어떻게 되나요?
+6. ResNet의 기본 아이디어를 수식으로 표현하면 어떻게 되나요? https://chatgpt.com/s/t_6acc399f13ac81918925adca2791214a
 7. 일반적인 CNN 블록이 H(x)를 직접 학습하는 것과 ResNet이 F(x) = H(x) - x를 학습하는 것의 차이는 무엇인가요?
 8. Residual learning이 학습을 쉽게 만드는 이유는 무엇인가요?
 9. Skip connection이 gradient flow에 주는 장점은 무엇인가요?
