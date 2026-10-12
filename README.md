@@ -32,7 +32,7 @@
 3. 1x1, 3x3, 5x5 convolution을 동시에 사용하는 장점은 무엇인가요? https://chatgpt.com/s/t_6acc49dc1c408191aea919d502934dda
 4. 이미지나 feature map에서 다양한 scale의 정보를 추출해야 하는 이유는 무엇인가요? https://chatgpt.com/s/t_6acc4a71e4bc81918b8c3d569cf14b6e
 5. Inception 모듈에서 1x1 convolution은 어떤 역할을 하나요? https://chatgpt.com/s/t_6acc4ad3fa688191a0d061134357d72e
-6. 1x1 convolution이 연산량을 줄이는 원리는 무엇인가요?
+6. 1x1 convolution이 연산량을 줄이는 원리는 무엇인가요? https://chatgpt.com/s/t_6acc4b1bcb308191bfefeaeb95374af3
 7. 1x1 convolution이 단순히 크기만 줄이는 것이 아니라 channel mixing을 수행한다는 말은 무슨 뜻인가요?
 8. GoogLeNet이 깊은 네트워크임에도 파라미터 수를 상대적으로 줄일 수 있었던 이유는 무엇인가요?
 9. Inception 구조와 일반적인 sequential CNN 구조의 차이는 무엇인가요?
