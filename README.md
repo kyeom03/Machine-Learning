@@ -14,7 +14,8 @@
 
 ## 0. ResNet / Skip Connection
 
-1. ResNet이 등장한 배경은 무엇인가요?
+1. ResNet이 등장한 배경은 무엇인가요? 
+https://chatgpt.com/s/t_6acc36a0a258819197baa1ae7c750826
 2. 네트워크를 단순히 깊게 쌓으면 왜 성능이 오히려 떨어질 수 있나요?
 3. Vanishing gradient 문제란 무엇인가요?
 4. Skip connection이란 무엇인가요?
