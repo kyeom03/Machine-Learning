@@ -59,7 +59,7 @@
 
 1. Xception은 어떤 모델을 기반으로 발전한 구조인가요? https://chatgpt.com/s/t_6adeaab6405881918f19421472da2f40
 2. Xception의 핵심 아이디어는 무엇인가요? https://chatgpt.com/s/t_6adeaafd7350819188c1947c01ed6b93
-3. Depthwise separable convolution이란 무엇인가요?
+3. Depthwise separable convolution이란 무엇인가요? https://chatgpt.com/s/t_6adeab5246ac8191907ae6c91e293c97
 4. 일반 convolution과 depthwise separable convolution의 차이는 무엇인가요?
 5. Depthwise convolution은 어떤 방식으로 수행되나요?
 6. Depthwise convolution에서는 channel 간 상호작용이 일어나나요?
