@@ -57,7 +57,7 @@
 
 ## 3. Xception / Depthwise Separable Convolution
 
-1. Xception은 어떤 모델을 기반으로 발전한 구조인가요?
+1. Xception은 어떤 모델을 기반으로 발전한 구조인가요? https://chatgpt.com/s/t_6adeaab6405881918f19421472da2f40
 2. Xception의 핵심 아이디어는 무엇인가요?
 3. Depthwise separable convolution이란 무엇인가요?
 4. 일반 convolution과 depthwise separable convolution의 차이는 무엇인가요?
