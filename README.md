@@ -65,7 +65,7 @@
 6. Depthwise convolution에서는 channel 간 상호작용이 일어나나요? https://chatgpt.com/s/t_6adeabe7454c8191b953a3baa9096f2c
 7. Pointwise convolution이란 무엇인가요? https://chatgpt.com/s/t_6adeac14c8a88191ad960ecd8deb46e4
 8. 1x1 pointwise convolution은 depthwise convolution 이후 어떤 역할을 하나요? https://chatgpt.com/s/t_6adeac3e8858819184ebaa67055620b3
-9. Depthwise convolution과 pointwise convolution을 분리하면 어떤 장점이 있나요?
+9. Depthwise convolution과 pointwise convolution을 분리하면 어떤 장점이 있나요? https://chatgpt.com/s/t_6adeac6e4bdc8191be657ca074ed41d2
 10. Depthwise separable convolution이 연산량을 줄이는 이유는 무엇인가요?
 11. Xception은 Inception 구조를 어떻게 극단적으로 해석한 모델인가요?
 12. Xception에서 중간 ReLU 비선형성을 제거한 이유는 무엇인가요?
