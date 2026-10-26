@@ -49,7 +49,7 @@
 7. SE block에서 Excitation 단계는 어떻게 작동하나요? https://chatgpt.com/s/t_6adea49438c081919cdbb0683e182945
 8. Excitation에서 fully connected layer와 sigmoid를 사용하는 이유는 무엇인가요? https://chatgpt.com/s/t_6adea4cd44d08191a6d390791245be72
 9. SE block은 각 channel에 어떤 방식으로 가중치를 부여하나요? https://chatgpt.com/s/t_6adea5297c408191809d3ed07627407d
-10. SE block이 channel attention이라고 불리는 이유는 무엇인가요?
+10. SE block이 channel attention이라고 불리는 이유는 무엇인가요? https://chatgpt.com/s/t_6adea588c9d481918d39934b77430066
 11. SE block은 spatial 위치 정보보다 어떤 정보에 더 집중하나요?
 12. SE block을 기존 CNN에 쉽게 삽입할 수 있는 이유는 무엇인가요?
 13. SE block이 성능을 향상시키는 핵심 원리는 무엇인가요?
