@@ -52,7 +52,7 @@
 10. SE block이 channel attention이라고 불리는 이유는 무엇인가요? https://chatgpt.com/s/t_6adea588c9d481918d39934b77430066
 11. SE block은 spatial 위치 정보보다 어떤 정보에 더 집중하나요? https://chatgpt.com/s/t_6adea5b2ea548191b2614e849347d2fa
 12. SE block을 기존 CNN에 쉽게 삽입할 수 있는 이유는 무엇인가요? https://chatgpt.com/s/t_6adea5f2e81c8191aecc7392da57c104
-13. SE block이 성능을 향상시키는 핵심 원리는 무엇인가요?
+13. SE block이 성능을 향상시키는 핵심 원리는 무엇인가요? https://chatgpt.com/s/t_6adea62718048191a83ce8ef264dc715
 14. SE block의 한계는 무엇인가요?
 
 ## 3. Xception / Depthwise Separable Convolution
