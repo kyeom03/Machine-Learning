@@ -41,7 +41,7 @@
 ## 2. SENet / SE Block
 
 1. SENet이 해결하려고 한 문제는 무엇인가요? https://chatgpt.com/s/t_6adea14a99c48191a84a41ba9d2e5fbb
-2. CNN에서 channel이 의미하는 것은 무엇인가요?
+2. CNN에서 channel이 의미하는 것은 무엇인가요? https://chatgpt.com/s/t_6adea1f828788191a3d579db7021cb93
 3. 모든 channel이 동일하게 중요한 것은 아니라는 말은 무슨 의미인가요?
 4. SE block에서 Squeeze 단계는 무엇을 수행하나요?
 5. SE block에서 Global Average Pooling(GAP)의 역할은 무엇인가요?
