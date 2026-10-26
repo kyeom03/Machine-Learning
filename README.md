@@ -63,7 +63,7 @@
 4. 일반 convolution과 depthwise separable convolution의 차이는 무엇인가요? https://chatgpt.com/s/t_6adeab7fa3c48191b232e0f35bd18b18
 5. Depthwise convolution은 어떤 방식으로 수행되나요? https://chatgpt.com/s/t_6adeabbf8c808191832d6c29c13e2e50
 6. Depthwise convolution에서는 channel 간 상호작용이 일어나나요? https://chatgpt.com/s/t_6adeabe7454c8191b953a3baa9096f2c
-7. Pointwise convolution이란 무엇인가요?
+7. Pointwise convolution이란 무엇인가요? https://chatgpt.com/s/t_6adeac14c8a88191ad960ecd8deb46e4
 8. 1x1 pointwise convolution은 depthwise convolution 이후 어떤 역할을 하나요?
 9. Depthwise convolution과 pointwise convolution을 분리하면 어떤 장점이 있나요?
 10. Depthwise separable convolution이 연산량을 줄이는 이유는 무엇인가요?
