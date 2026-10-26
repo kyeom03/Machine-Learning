@@ -46,7 +46,7 @@
 4. SE block에서 Squeeze 단계는 무엇을 수행하나요? https://chatgpt.com/s/t_6adea2de028881919dda57d92fe7df53
 5. SE block에서 Global Average Pooling(GAP)의 역할은 무엇인가요? https://chatgpt.com/s/t_6adea33d16a08191907fa306da2b88b0
 6. GAP을 사용하면 feature map의 어떤 정보가 압축되나요? https://chatgpt.com/s/t_6adea3a67cc88191a753cd1543f70556
-7. SE block에서 Excitation 단계는 어떻게 작동하나요?
+7. SE block에서 Excitation 단계는 어떻게 작동하나요? https://chatgpt.com/s/t_6adea49438c081919cdbb0683e182945
 8. Excitation에서 fully connected layer와 sigmoid를 사용하는 이유는 무엇인가요?
 9. SE block은 각 channel에 어떤 방식으로 가중치를 부여하나요?
 10. SE block이 channel attention이라고 불리는 이유는 무엇인가요?
