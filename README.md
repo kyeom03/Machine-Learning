@@ -69,8 +69,8 @@
 10. Depthwise separable convolution이 연산량을 줄이는 이유는 무엇인가요? https://chatgpt.com/s/t_6adead3b17c48191bcc96f3bc85e276b
 11. Xception은 Inception 구조를 어떻게 극단적으로 해석한 모델인가요? https://chatgpt.com/s/t_6adeae7898488191ad49167bcea54e11
 12. Xception에서 중간 ReLU 비선형성을 제거한 이유는 무엇인가요? https://chatgpt.com/s/t_6adeae2fcd488191bcd87633d3855185
-13. Depthwise separable convolution이 모바일 및 경량 모델에서 자주 사용되는 이유는 무엇인가요?
-14. Depthwise separable convolution의 단점은 무엇일 수 있나요?
+13. Depthwise separable convolution이 모바일 및 경량 모델에서 자주 사용되는 이유는 무엇인가요? https://chatgpt.com/s/t_6adeaeac8cb4819191a7b3ec0febbe49
+14. Depthwise separable convolution의 단점은 무엇일 수 있나요? https://chatgpt.com/s/t_6adeaee89dac8191b5dac9202a068d74
 
 ## 4. CBAM
 
