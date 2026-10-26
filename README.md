@@ -36,7 +36,7 @@
 7. 1x1 convolution이 단순히 크기만 줄이는 것이 아니라 channel mixing을 수행한다는 말은 무슨 뜻인가요? https://chatgpt.com/s/t_6acc4b724b9081919ebb02b3b02b00b3
 8. GoogLeNet이 깊은 네트워크임에도 파라미터 수를 상대적으로 줄일 수 있었던 이유는 무엇인가요? https://chatgpt.com/s/t_6ade9e0c79fc81919ed23df040f9000d
 9. Inception 구조와 일반적인 sequential CNN 구조의 차이는 무엇인가요? https://chatgpt.com/s/t_6ade9e7527d481918098f75f2f753af4
-10. Inception 모듈의 장점과 한계는 무엇인가요?
+10. Inception 모듈의 장점과 한계는 무엇인가요? https://chatgpt.com/s/t_6ade9ecb60348191aef8a0e26d6ad277
 
 ## 2. SENet / SE Block
 
